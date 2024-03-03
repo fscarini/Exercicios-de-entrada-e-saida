@@ -1,4 +1,4 @@
-![Lista de exercícios](exercicios_entrada_e_saida.pdf)
+[Lista de exercícios](exercicios_entrada_e_saida.pdf)
 
 ## Bem-vindo! 👋
 
